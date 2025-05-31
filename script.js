@@ -19,4 +19,3 @@ function fibonacci(num) {
 }
 
 module.exports = fibonacci;
-fibonacci(10);
